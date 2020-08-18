@@ -25,7 +25,3 @@ print(ftp.cwd('Data'))
 ftp.close()
 
 
-
-
-
-
