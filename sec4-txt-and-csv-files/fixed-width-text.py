@@ -7,6 +7,3 @@ import pandas
 
 df1=pandas.read_fwf('fixed-width.txt')
 print(df1.head())
-
-
-
